@@ -4,3 +4,6 @@ c:\users\laureano\documents\visual studio 2013\Projects\Ejemplo\Ejemplo\bin\Debu
 c:\users\laureano\documents\visual studio 2013\Projects\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csprojResolveAssemblyReference.cache
 c:\users\laureano\documents\visual studio 2013\Projects\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
 c:\users\laureano\documents\visual studio 2013\Projects\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb
+C:\Users\Notebook\Desktop\TpVersiones\bin\Debug\Ejemplo.exe.config
+C:\Users\Notebook\Desktop\TpVersiones\obj\Debug\Ejemplo.exe
+C:\Users\Notebook\Desktop\TpVersiones\obj\Debug\Ejemplo.pdb
