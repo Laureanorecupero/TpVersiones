@@ -17,7 +17,7 @@ namespace Ejemplo
             Console.WriteLine(o.division());
             Console.ReadKey();
             string aux = "hola";
-            string aux2 = "chau";
+            string aux2 = "ch";
             
         }
     }
