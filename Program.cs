@@ -15,9 +15,9 @@ namespace Ejemplo
             Console.WriteLine(o.resta());
             Console.WriteLine(o.producto());
             Console.WriteLine(o.division());
-            Console.ReadKey();
             
-            string aux2 = "mundo";
+            
+           
             
         }
     }
