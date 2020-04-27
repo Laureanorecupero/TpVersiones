@@ -13,8 +13,7 @@ namespace Ejemplo
             Operaciones o = new Operaciones();
             Console.WriteLine(o.suma());
             Console.WriteLine(o.resta());
-            Console.WriteLine(o.producto());
-            Console.WriteLine(o.division());
+           
             
             
            
